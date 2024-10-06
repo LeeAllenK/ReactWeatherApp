@@ -15,6 +15,13 @@
   When improving this application I would add a  geolocation function so users can have exact forecast in relation to their position. the bacground picture matches weather forecast for that day. Focus on mobile build with react-native.
 </div>
 
+<div id="header" >
+ <h1 class="heading-element" dir="auto">Installation:</h1>
+ 1. git clone repo.<br/>
+2. npm install<br/>
+</div>
+
+
 <div id="header">
  <h1 class="heading-element" dir="auto">Lessons Learned:</h1>
  When using hook to call weather API don't call function until I'm ready API is continously being called. Use JSX to advantage when building UI.
