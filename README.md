@@ -6,7 +6,7 @@
 <div id="header" >
  <h1 class="heading-element" dir="auto">How It's Made:</h1>
  Tech used: HTML, CSS, JavaScript , React , Node.js<br/><br/> 
- The goal was to showcase my improved skills by building a weather application using React. Although simple in design using a new library to build was quite the challenge. Usings hooks to not only fetch data but to also change data displayed. Instead on standard HTML file using JSX helped deliver a unique way to build the UI for the user.
+ The goal was to showcase my improved skills by building a weather application using React. Although simple in design using a new library to build was quite the challenge. Utilizing hooks to not only fetch data but also update data. Instead on standard HTML file using JSX helped deliver a unique way to build the UI for the user.
 </div>
 
 
