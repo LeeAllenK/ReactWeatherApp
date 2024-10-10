@@ -1,5 +1,6 @@
 <div id="header" >
  <h1  class="heading-element" dir="auto">Weather App</h1>
+ <img src="https://i.imgur.com/gHrm4WJ.gif" alt="Weather App">
  A weather application that helps users find their daily forecast for city searched.
 </div>
 
