@@ -28,7 +28,7 @@ export default function MyApp() {
         return err;
       }
     }
-    //Weather function commented out will continuously call function will use alloted calls to API.
+    // Calling weather function commented out will continuously call function which will result in an error (used alloted calls to API).
 
     // weather();
   }, [apiData])
