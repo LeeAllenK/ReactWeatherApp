@@ -20,6 +20,7 @@
  <h1 class="heading-element" dir="auto">Installation:</h1>
  1. git clone repo<br/>
 2. npm install<br/>
+ 3. navigate to App.js uncomment weather()
 </div>
 
 
