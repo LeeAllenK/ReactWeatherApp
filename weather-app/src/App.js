@@ -10,7 +10,7 @@ import { faSearch } from '@fortawesome/free-solid-svg-icons'
 
 export default function MyApp() {
  
-  const [apiData, setApiData] = useState({});
+  const [apiData, setApiData] = useState('');
   const [getCity, setGetCity] = useState('');
   const [city, setCity] = useState('');
 
@@ -35,7 +35,7 @@ export default function MyApp() {
 
 
 
-  const submitHandler = () => {
+  const submitBtn = () => {
     setCity(getCity);
   };
   return (
@@ -50,7 +50,7 @@ export default function MyApp() {
           placeholder='Search City...'
         />
       </label><FontAwesomeIcon className='addCity'
-        onClick={submitHandler} icon={faSearch} />
+        onClick={submitBtn} icon={faSearch} />
       <br />
       <WeatherComponent weatherData={apiData} />
       <br />
